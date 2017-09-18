@@ -1,0 +1,19 @@
+﻿Dependency:
+1. Need Debain environment 
+2. need ntp installed (aptitude install ntp)
+3. run following command in terminal
+	1. pip install python-oauth2
+	2. pip install scipy
+	3. pip install matplotlib
+
+How to run following assignment run these command on termninal:
+1. python twitterstream.py > output.txt
+2. python tweet_sentiment.py AFINN-111.txt output_Big_data_old.txt
+3. python term_sentiment.py AFINN-111.txt output_Big_data_old.txt
+4. python frequency.py output_Big_data_old.txt
+5. python happiest_state.py AFINN-111.txt output_Big_data_old.txt
+6. python top_ten.py output_Big_data_old.txt
+
+
+
+
